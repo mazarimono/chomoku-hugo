@@ -1,0 +1,12 @@
+[submodule "themes/vex"]
+	path = themes/vex
+	url = https://github.com/themefisher/vex-hugo.git
+[submodule "themes/influencer"]
+	path = themes/influencer
+	url = https://github.com/themefisher/Influencer-hugo.git
+[submodule "themes/kross"]
+	path = themes/kross
+	url = https://github.com/themefisher/kross-hugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git

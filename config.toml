@@ -1,0 +1,45 @@
+baseURL = "http://example.org/"
+languageCode = "ja-jp"
+title = "合同会社 長目"
+theme = "ananke"
+googleAnalytics = ""
+
+[params]
+theme_color = "blue"
+site_logo="/img/chomoku-black.png"
+twitter = "https://twitter.com/chomoku_kyoto"
+featured_image = "/img/chomoku-blackgold.png"
+recent_posts_number = 3
+
+[permalinks]
+blogs = "/:year/:month:/:day/:filename/"
+
+[[menu.main]]
+    url = "/"
+    name = "ホーム"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "会社概要"
+    weight = 2
+
+[[menu.main]]
+    url = "/blogs/"
+    name = "ブログ"
+    weight = 3
+
+[[menu.main]]
+    url = "/news/"
+    name = "ニュース"
+    weight = 4 
+
+[[menu.main]]
+    url = "/contact/"
+    name = "コンタクト"
+    weight = 5
+
+[[menu.icon]]
+    url = "mailto:chomoku_kyoto@gmail.com"
+    name = "far fa-envelope"
+    weight = 1
