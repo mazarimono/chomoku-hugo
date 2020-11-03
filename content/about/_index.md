@@ -1,7 +1,7 @@
 ---
 title: "会社概要"
 date: 2020-11-01T17:48:03+09:00
-draft: true
+draft: false
 tag: corporation
 ---
 
